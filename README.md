@@ -1,3 +1,4 @@
+Utilização de JavaScript em HTML, manipulação do DOM, captura de eventos e criação de novos itens com `createElement`. Validação de campos, organização de listas com `appendChild`, formatação de data e hora, uso de `template strings`, manipulação de classes CSS e visibilidade de elementos, além de modularização e importação/exportação de funções.
 
 ![Descricao da sua imagem](https://imgur.com/C8TfWXc.png)
 
